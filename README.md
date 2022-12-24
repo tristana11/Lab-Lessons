@@ -1,5 +1,5 @@
 # Lessons-01
 
-lessons-01
+Введение в Java
 
 https://practice.rakovets.by/java/core/intro
