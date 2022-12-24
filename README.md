@@ -1,5 +1,7 @@
 # Lessons-01
 
+Введение в Java: Особенности Java. JRE и JDK. Первая программа на Java.
+
 Theory:
 
 https://wiki.rakovets.by/java/core/intro.html
