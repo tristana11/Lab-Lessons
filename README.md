@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=oU1rU6aphFM&ab_channel=DmitryRakovets
 
 https://www.youtube.com/watch?v=WRKccHL3cKY&ab_channel=DmitryRakovets
 
+Полезные инструменты и практики:
+
 https://www.youtube.com/watch?v=GdTs599a-IM&ab_channel=DmitryRakovets
 
 https://www.youtube.com/watch?v=iydomZWYSn8&ab_channel=DmitryRakovets
